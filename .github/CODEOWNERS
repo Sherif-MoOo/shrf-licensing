@@ -1,0 +1,5 @@
+# Default review responsibility for all repository files.
+* @Sherif-MoOo
+
+# Explicit review responsibility for repository governance files.
+/.github/ @Sherif-MoOo
